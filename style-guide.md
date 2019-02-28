@@ -11,18 +11,18 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Very Dark Blue: hsl(243, 87%, 12%)
-- Desaturated Blue: hsl(238, 22%, 44%)
+- Very Dark Blue: hsl(243, 87%, 12%)  // Footer color
+- Desaturated Blue: hsl(238, 22%, 44%) // button color ? 
 
 ### Accent
 
-- Bright Blue: hsl(224, 93%, 58%)
-- Moderate Cyan: hsl(170, 45%, 43%)
+- Bright Blue: hsl(224, 93%, 58%) // button color 
+- Moderate Cyan: hsl(170, 45%, 43%) // no idea where too use this
 
 ### Neutral
 
-- Light Grayish Blue: hsl(240, 75%, 98%)
-- Light Gray: hsl(0, 0%, 75%)
+- Light Grayish Blue: hsl(240, 75%, 98%) -- background of main section 3
+- Light Gray: hsl(0, 0%, 75%)  -- grey color ?? not sure
 
 ## Typography
 
